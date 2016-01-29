@@ -1,0 +1,2 @@
+# presence
+Chat presence manager
